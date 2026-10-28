@@ -1,0 +1,6 @@
+torch
+ultralytics
+opencv-python
+numpy
+filterpy
+streamlit
